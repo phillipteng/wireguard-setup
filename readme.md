@@ -4,6 +4,7 @@
 
 ```bash
 git clone git@github.com:phillipteng/wireguard-setup.git
+cd wireguard-setup
 ```
 
 ### 2. Change exucution priveleges and execute the script
